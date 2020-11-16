@@ -57,7 +57,7 @@
     "run-sequence": "^1.1.0",
     "vinyl-source-stream": "^1.0.0",
     "webpack": "^1.11.0",
-    "webpack-stream": "^3.1.0"
+    "webpack-stream": "^6.1.1"
   },
   "dependencies": {
     "fbemitter": "^2.0.0",
